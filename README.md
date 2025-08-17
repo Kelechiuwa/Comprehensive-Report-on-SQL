@@ -1,8 +1,6 @@
 # Comprehensive-Report-on-SQL
 A deeply documented SQL analysis and reporting project, showcasing advanced query logic, business-oriented insights, and complete report delivery all, 
 
-# Comprehensive-Report-on-SQL
-A deeply documented SQL analysis and reporting project, showcasing advanced query logic, business-oriented insights, and complete report delivery—all.
 
 Project Overview
 - **Objective**: Perform end-to-end data analysis using raw SQL, from data exploration through advanced reporting, with clear business impact.
